@@ -153,6 +153,7 @@ while running:
         print(bcolors.FAIL + "Your enemy has defeated you!" + bcolors.ENDC)
         running = False
 
+
     #Enemy attack phase
     print("\n")
     for enemy in enemies:
